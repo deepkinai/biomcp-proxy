@@ -550,5 +550,5 @@ if __name__ == "__main__":
     mcp.run(
         transport="sse", 
         host="127.0.0.1", 
-        port=3319
+        port=3017
     )
